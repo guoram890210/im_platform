@@ -1,0 +1,7 @@
+wb\im\domain\common\MyMapper.class
+wb\im\domain\model\account\WbMessageInfo$WbMessageInfoBuilder.class
+wb\im\domain\model\account\WbMessageInfo.class
+wb\im\domain\mapper\account\WbAccountInfoMapper.class
+wb\im\domain\model\account\WbAccountInfo$WbAccountInfoBuilder.class
+wb\im\domain\model\account\WbAccountInfo.class
+wb\im\domain\mapper\account\WbMessageInfoMapper.class

@@ -5,9 +5,9 @@ spring:
     filters: stat,wall,log4j,config
     druid:
       username: root
-      password: 111111
-      url: jdbc:mysql://127.0.0.1:3306/im?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8
-      driverClassName: com.mysql.jdbc.Driver
+      password: 123456
+      url: jdbc:mysql://127.0.0.1:3306/gr?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8
+      driverClassName: com.mysql.cj.jdbc.Driver
       max-active: 100
       initial-size: 20
       max-wait: 60000
@@ -20,7 +20,11 @@ spring:
       test-on-return: false
       pool-prepared-statements: true
       max-open-prepared-statements: 20
-
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    database: 0
+    password:
   thymeleaf:
     mode: HTML
     suffix: .html

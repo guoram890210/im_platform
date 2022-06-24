@@ -29,6 +29,9 @@
     };
 
     function send() {
+
+        console.log(currUserId)
+
         var params = new Map();
 
         var params = new Object();
@@ -51,6 +54,7 @@
         params["msgType"] = 1;
         var json = JSON.stringify(params);
         console.log(json);
+        console.log(currUserId)
         ws.send(json)
     }
 

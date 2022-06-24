@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9371df-e867-4e05-8035-7c6c70a7c99d" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/im-core/target/" />
-    <ignored path="$PROJECT_DIR$/im-domain/target/" />
-    <ignored path="$PROJECT_DIR$/im-control/im-stage/target/" />
-    <ignored path="$PROJECT_DIR$/im-control/target/" />
-    <ignored path="$PROJECT_DIR$/im-utils/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="cc9371df-e867-4e05-8035-7c6c70a7c99d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/im-core/src/main/java/wb/im/core/config/RedissonConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-control.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/im-stage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/im-control/im-stage/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/src/main/resources/templates/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/im-control/im-stage/src/main/resources/templates/chat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/target/classes/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/im-control/im-stage/target/classes/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/target/classes/templates/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/im-control/im-stage/target/classes/templates/chat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/target/im-stage-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/im-control/im-stage/target/im-stage-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-control/im-stage/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/im-control/im-stage/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/im-control/im-stage/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-control/im-stage/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/src/main/java/wb/im/core/adapter/WbMessageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/src/main/java/wb/im/core/adapter/WbMessageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/src/main/java/wb/im/core/handler/WbNettyActiveHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/src/main/java/wb/im/core/handler/WbNettyActiveHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/target/classes/wb/im/core/adapter/WbMessageAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/target/classes/wb/im/core/adapter/WbMessageAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/target/classes/wb/im/core/cache/ChannelCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/target/classes/wb/im/core/cache/ChannelCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/target/classes/wb/im/core/handler/WbNettyActiveHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/target/classes/wb/im/core/handler/WbNettyActiveHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/target/im-core-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/target/im-core-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/im-core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-core/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-domain/target/im-domain-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/im-domain/target/im-domain-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-domain/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-domain/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-domain/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/im-domain/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/im-domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-domain/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-domain/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-platform.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-utils/im-utils.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-utils/target/im-utils-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/im-utils/target/im-utils-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-utils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-utils/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/im-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/im-utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-utils/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/account/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/account/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/account/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/account/error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/account/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/account/info.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,125 +98,6 @@
       </content>
     </window>
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1156">
-              <caret line="36" column="47" lean-forward="true" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/im-control/im-stage/src/main/java/wb/im/control/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="18" selection-start-line="10" selection-end-line="15" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/service/impl/WbLoginTokenService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="35" selection-start-line="35" selection-end-line="36" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/constant/BusinessKeyEnums.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/service/impl/WbHeartBeatService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#746#747#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/service/impl/WbMessageService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2478#2479#0" expanded="true" />
-                <element signature="e#2563#2564#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/service/IWbMessageService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/handler/WbNettyMessageProcessorHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/im-control/im-stage/src/main/resources/templates/chat.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/im-domain/src/main/resources/generatorConfig.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -188,6 +110,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -276,6 +206,7 @@
     <option name="width" value="1918" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectId" id="2AvAP62qSbRzK19CZkw0rB5qQ9R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -550,6 +481,9 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -562,33 +496,24 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/im-control/im-stage/src/main/resources/static/js" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="wb.im.utils.encrypt" />
-      <recent name="wb.im.domain.plugins" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\battleSpace\im-platform\im-control\im-stage\src\main\resources\static\js" />
       <recent name="F:\battleSpace\im-platform\im-control\im-stage\src\main\resources" />
       <recent name="F:\battleSpace\im-platform\im-core\src\main\resources\log" />
       <recent name="F:\battleSpace\im-platform\im-domain\src\main\resources" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="wb.im.utils.encrypt" />
+      <recent name="wb.im.domain.plugins" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.App">
     <configuration default="true" type="Applet">
@@ -613,6 +538,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -688,6 +624,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -700,6 +637,9 @@
       <updated>1587977927398</updated>
       <workItem from="1587977930535" duration="2360000" />
       <workItem from="1588045885067" duration="43771000" />
+      <workItem from="1655879659785" duration="6711000" />
+      <workItem from="1655942519653" duration="21020000" />
+      <workItem from="1656030810735" duration="13417000" />
     </task>
     <servers />
   </component>
@@ -741,7 +681,19 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -749,53 +701,19 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/4.1.5/mapper-4.1.5-sources.jar!/tk/mybatis/mapper/generator/MapperPlugin.java</url>
           <line>119</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper/4.1.5/mapper-4.1.5-sources.jar!/tk/mybatis/mapper/generator/MapperPlugin.java</url>
           <line>325</line>
-          <properties />
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/service/impl/WbLoginTokenService.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/adapter/WbMessageAdapter.java</url>
-          <line>34</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/handler/WbNettyMessageProcessorHandler.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/adapter/WbMessageAdapter.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/service/IWbMessageService.java</url>
-          <line>27</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/im-core/src/main/java/wb/im/core/service/impl/WbMessageService.java</url>
-          <line>55</line>
-          <properties />
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/im-utils/pom.xml">

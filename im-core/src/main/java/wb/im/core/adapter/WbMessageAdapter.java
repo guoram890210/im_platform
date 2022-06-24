@@ -47,6 +47,11 @@ public class WbMessageAdapter {
             return;
         }
         MessageDto messageDto = JSON.parseObject(message, MessageDto.class);
+
+        log.info("=========结果=============>{}", JSON.toJSONString(messageDto));
+
+        log.info("=========消息=============>{}",msg);
+
         try {
             messageServiceMap.get(messageDto.getBusinessKey()).messageOp(ctx, messageDto, msg instanceof WebSocketFrame ? 1 : 0);
         } catch (Exception e) {
